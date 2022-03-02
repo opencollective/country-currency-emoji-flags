@@ -275,11 +275,6 @@
     "currencyName": "Israeli new shekel"
   },
   {
-    "currencyCode": "IM",
-    "emoji": "🇮🇲",
-    "currencyName": "Isle of Man"
-  },
-  {
     "currencyCode": "INR",
     "emoji": "🇮🇳",
     "currencyName": "Indian rupee"
@@ -365,11 +360,6 @@
     "currencyName": "Moroccan dirham"
   },
   {
-    "currencyCode": "MC",
-    "emoji": "🇲🇨",
-    "currencyName": "Monaco"
-  },
-  {
     "currencyCode": "MDL",
     "emoji": "🇲🇩",
     "currencyName": "Moldovan leu"
@@ -448,11 +438,6 @@
     "currencyCode": "NIO",
     "emoji": "🇳🇮",
     "currencyName": "Nicaraguan córdoba"
-  },
-  {
-    "currencyCode": "NL",
-    "emoji": "🇳🇱",
-    "currencyName": "Netherlands"
   },
   {
     "currencyCode": "NOK",
@@ -543,6 +528,11 @@
     "currencyCode": "SCR",
     "emoji": "🇸🇨",
     "currencyName": "Seychelles rupee"
+  },
+  {
+    "currencyCode": "SEK",
+    "emoji": "🇸🇪",
+    "currencyName": "Swedish krona"
   },
   {
     "currencyCode": "SGD",
