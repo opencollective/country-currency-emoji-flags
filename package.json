@@ -1,0 +1,17 @@
+{
+  "name": "country-currency-emoji-flags",
+  "version": "1.0.0",
+  "description": "Returns country flag emojis given the country or currency codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "currency-emojis",
+    "currency",
+    "emojis",
+    "currency-codes"
+  ],
+  "author": "OpenCollective Team",
+  "license": "MIT"
+}
