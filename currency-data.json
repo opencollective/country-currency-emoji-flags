@@ -9,16 +9,6 @@
     "emoji": "🇦🇫",
     "currencyName": "Afghan afghani"
   },
-//  {
-//    "currencyCode": "AG",
-//    "emoji": "🇦🇬",
-//    "currencyName": "Antigua and Barbuda"
-//  },
-//  {
-//    "currencyCode": "AI",
-//    "emoji": "🇦🇮",
-//    "currencyName": "Anguilla"
-//  },
   {
     "currencyCode": "ALL",
     "emoji": "🇦🇱",
@@ -39,26 +29,11 @@
     "emoji": "🇦🇴",
     "currencyName": "Angolan kwanza"
   },
-//  {
-//    "currencyCode": "AQ",
-//    "emoji": "🇦🇶",
-//    "currencyName": "Antarctica"
-//  },
   {
     "currencyCode": "ARS",
     "emoji": "🇦🇷",
     "currencyName": "Argentine peso"
   },
-//  {
-//    "currencyCode": "AS",
-//    "emoji": "🇦🇸",
-//    "currencyName": "American Samoa"
-//  },
-//  {
-//    "currencyCode": "AT",
-//    "emoji": "🇦🇹",
-//    "currencyName": "Austria"
-//  },
   {
     "currencyCode": "AUD",
     "emoji": "🇦🇺",
@@ -69,11 +44,6 @@
     "emoji": "🇦🇼",
     "currencyName": "Aruban florin"
   },
-//  {
-//    "currencyCode": "AX",
-//    "emoji": "🇦🇽",
-//    "currencyName": "Åland Islands"
-//  },
   {
     "currencyCode": "AZN",
     "emoji": "🇦🇿",
@@ -94,41 +64,16 @@
     "emoji": "🇧🇩",
     "currencyName": "Bangladeshi taka"
   },
-//  {
-//    "currencyCode": "BE",
-//    "emoji": "🇧🇪",
-//    "currencyName": "Belgium"
-//  },
-//  {
-//    "currencyCode": "BF",
-//    "emoji": "🇧🇫",
-//    "currencyName": "Burkina Faso"
-//  },
   {
     "currencyCode": "BGN",
     "emoji": "🇧🇬",
     "currencyName": "Bulgarian lev"
   },
-//  {
-//    "currencyCode": "BH",
-//    "emoji": "🇧🇭",
-//    "currencyName": "Bahrain"
-//  },
   {
     "currencyCode": "BIF",
     "emoji": "🇧🇮",
     "currencyName": "Burundian franc"
   },
-//  {
-//    "currencyCode": "BJ",
-//    "emoji": "🇧🇯",
-//    "currencyName": "Benin"
-//  },
-//  {
-//    "currencyCode": "BL",
-//    "emoji": "🇧🇱",
-//    "currencyName": "Saint Barthélemy"
-//  },
   {
     "currencyCode": "BMD",
     "emoji": "🇧🇲",
@@ -144,11 +89,6 @@
     "emoji": "🇧🇴",
     "currencyName": "Boliviano"
   },
-//  {
-//    "currencyCode": "BQ",
-//    "emoji": "🇧🇶",
-//    "currencyName": "Bonaire, Sint Eustatius and Saba"
-//  },
   {
     "currencyCode": "BRL",
     "emoji": "🇧🇷",
@@ -159,16 +99,6 @@
     "emoji": "🇧🇸",
     "currencyName": "Bahamian dollar"
   },
-//  {
-//    "currencyCode": "BT",
-//    "emoji": "🇧🇹",
-//    "currencyName": "Bhutan"
-//  },
-//  {
-//    "currencyCode": "BV",
-//    "emoji": "🇧🇻",
-//    "currencyName": "Bouvet Island"
-//  },
   {
     "currencyCode": "BWP",
     "emoji": "🇧🇼",
@@ -189,51 +119,21 @@
     "emoji": "🇨🇦",
     "currencyName": "Canadian dollar"
   },
-//  {
-//    "currencyCode": "CC",
-//    "emoji": "🇨🇨",
-//    "currencyName": "Cocos (Keeling) Islands"
-//  },
   {
     "currencyCode": "CDF",
     "emoji": "🇨🇩",
     "currencyName": "Congolese franc"
   },
-//  {
-//    "currencyCode": "CF",
-//    "emoji": "🇨🇫",
-//    "currencyName": "Central African Republic"
-//  },
-//  {
-//    "currencyCode": "CG",
-//    "emoji": "🇨🇬",
-//    "currencyName": "Congo"
-//  },
   {
     "currencyCode": "CHF",
     "emoji": "🇨🇭",
     "currencyName": "Swiss franc"
   },
-//  {
-//    "currencyCode": "CI",
-//    "emoji": "🇨🇮",
-//    "currencyName": "Côte D'Ivoire"
-//  },
-//  {
-//    "currencyCode": "CK",
-//    "emoji": "🇨🇰",
-//    "currencyName": "Cook Islands"
-//  },
   {
     "currencyCode": "CLP",
     "emoji": "🇨🇱",
     "currencyName": "Chilean peso"
   },
-//  {
-//    "currencyCode": "CM",
-//    "emoji": "🇨🇲",
-//    "currencyName": "Cameroon"
-//  },
   {
     "currencyCode": "CNY",
     "emoji": "🇨🇳",
@@ -249,41 +149,16 @@
     "emoji": "🇨🇷",
     "currencyName": "Costa Rican colon"
   },
-//  {
-//    "currencyCode": "CU",
-//    "emoji": "🇨🇺",
-//    "currencyName": "Cuba"
-//  },
   {
     "currencyCode": "CVE",
     "emoji": "🇨🇻",
     "currencyName": "Cape Verdean escudo"
   },
-//  {
-//    "currencyCode": "CW",
-//    "emoji": "🇨🇼",
-//    "currencyName": "Curaçao"
-//      },
-//  {
-//    "currencyCode": "CX",
-//    "emoji": "🇨🇽",
-//    "currencyName": "Christmas Island"
-//  },
-//  {
-//    "currencyCode": "CY",
-//    "emoji": "🇨🇾",
-//    "currencyName": "Cyprus"
-//  },
   {
     "currencyCode": "CZK",
     "emoji": "🇨🇿",
     "currencyName": "Czech Republic"
   },
-//  {
-//    "currencyCode": "DE",
-//    "emoji": "🇩🇪",
-//    "currencyName": "Germany"
-//  },
   {
     "currencyCode": "DJF",
     "emoji": "🇩🇯",
@@ -294,11 +169,6 @@
     "emoji": "🇩🇰",
     "currencyName": "Danish krone"
   },
-//  {
-//    "currencyCode": "DM",
-//    "emoji": "🇩🇲",
-//    "currencyName": "Dominica"
-//  },
   {
     "currencyCode": "DOP",
     "emoji": "🇩🇴",
@@ -309,36 +179,11 @@
     "emoji": "🇩🇿",
     "currencyName": "Algerian dinar"
   },
-//  {
-//    "currencyCode": "EC",
-//    "emoji": "🇪🇨",
-//    "currencyName": "Ecuador"
-//  },
-//  {
-//    "currencyCode": "EE",
-//    "emoji": "🇪🇪",
-//    "currencyName": "Estonia"
-//  },
   {
     "currencyCode": "EGP",
     "emoji": "🇪🇬",
     "currencyName": "Egyptian pound"
   },
-//  {
-//    "currencyCode": "EH",
-//    "emoji": "🇪🇭",
-//    "currencyName": "Western Sahara"
-//      },
-//  {
-//    "currencyCode": "ER",
-//    "emoji": "🇪🇷",
-//    "currencyName": "Eritrea"
-//  },
-//  {
-//    "currencyCode": "ES",
-//    "emoji": "🇪🇸",
-//    "currencyName": "Spain"
-//  },
   {
     "currencyCode": "ETB",
     "emoji": "🇪🇹",
@@ -349,11 +194,6 @@
     "emoji": "🇪🇺",
     "currencyName": "Euro"
   },
-//  {
-//    "currencyCode": "FI",
-//    "emoji": "🇫🇮",
-//    "currencyName": "Finland"
-//  },
   {
     "currencyCode": "FJD",
     "emoji": "🇫🇯",
@@ -364,66 +204,21 @@
     "emoji": "🇫🇰",
     "currencyName": "Falkland Islands pound"
   },
-//  {
-//    "currencyCode": "FM",
-//    "emoji": "🇫🇲",
-//    "currencyName": "Micronesia"
-//  },
-//  {
-//    "currencyCode": "FO",
-//    "emoji": "🇫🇴",
-//    "currencyName": "Faroe Islands"
-//  },
-//  {
-//    "currencyCode": "FR",
-//    "emoji": "🇫🇷",
-//    "currencyName": "France"
-//  },
-//  {
-//    "currencyCode": "GA",
-//    "emoji": "🇬🇦",
-//    "currencyName": "Gabon"
-//  },
   {
     "currencyCode": "GBP",
     "emoji": "🇬🇧",
     "currencyName": "Pound sterling"
   },
-//  {
-//    "currencyCode": "GD",
-//    "emoji": "🇬🇩",
-//    "currencyName": "Grenada"
-//  },
   {
     "currencyCode": "GEL",
     "emoji": "🇬🇪",
     "currencyName": "Georgian lari"
   },
-//  {
-//    "currencyCode": "GF",
-//    "emoji": "🇬🇫",
-//    "currencyName": "French Guiana"
-//  },
-//  {
-//    "currencyCode": "GG",
-//    "emoji": "🇬🇬",
-//    "currencyName": "Guernsey"
-//  },
-//  {
-//    "currencyCode": "GH",
-//    "emoji": "🇬🇭",
-//    "currencyName": "Ghana"
-//  },
   {
     "currencyCode": "GIP",
     "emoji": "🇬🇮",
     "currencyName": "Gibraltar pound"
   },
-//  {
-//    "currencyCode": "GL",
-//    "emoji": "🇬🇱",
-//    "currencyName": "Greenland"
-//  },
   {
     "currencyCode": "GMD",
     "emoji": "🇬🇲",
@@ -434,41 +229,11 @@
     "emoji": "🇬🇳",
     "currencyName": "Guinean franc"
   },
-//  {
-//    "currencyCode": "GP",
-//    "emoji": "🇬🇵",
-//    "currencyName": "Guadeloupe"
-//  },
-//  {
-//    "currencyCode": "GQ",
-//    "emoji": "🇬🇶",
-//    "currencyName": "Equatorial Guinea"
-//  },
-//  {
-//    "currencyCode": "GR",
-//    "emoji": "🇬🇷",
-//    "currencyName": "Greece"
-//  },
-//  {
-//    "currencyCode": "GS",
-//    "emoji": "🇬🇸",
-//    "currencyName": "South Georgia"
-//  },
   {
     "currencyCode": "GTQ",
     "emoji": "🇬🇹",
     "currencyName": "Guatemalan quetzal"
   },
-//  {
-//    "currencyCode": "GU",
-//    "emoji": "🇬🇺",
-//    "currencyName": "Guam"
-//  },
-//  {
-//    "currencyCode": "GW",
-//    "emoji": "🇬🇼",
-//    "currencyName": "Guinea-Bissau"
-//  },
   {
     "currencyCode": "GYD",
     "emoji": "🇬🇾",
@@ -479,11 +244,6 @@
     "emoji": "🇭🇰",
     "currencyName": "Hong Kong dollar"
   },
-//  {
-//    "currencyCode": "HM",
-//    "emoji": "🇭🇲",
-//    "currencyName": "Heard Island and Mcdonald Islands"
-//  },
   {
     "currencyCode": "HNL",
     "emoji": "🇭🇳",
@@ -509,11 +269,6 @@
     "emoji": "🇮🇩",
     "currencyName": " Indonesian rupiah"
   },
-//  {
-//    "currencyCode": "IE",
-//    "emoji": "🇮🇪",
-//    "currencyName": "Ireland"
-//  },
   {
     "currencyCode": "ILS",
     "emoji": "🇮🇱",
@@ -529,46 +284,16 @@
     "emoji": "🇮🇳",
     "currencyName": "Indian rupee"
   },
-//  {
-//    "currencyCode": "IO",
-//    "emoji": "🇮🇴",
-//    "currencyName": "British Indian Ocean Territory"
-//  },
-//  {
-//    "currencyCode": "IQ",
-//    "emoji": "🇮🇶",
-//    "currencyName": "Iraq"
-//  },
-//  {
-//    "currencyCode": "IR",
-//    "emoji": "🇮🇷",
-//    "currencyName": "Iran"
-//  },
   {
     "currencyCode": "ISK",
     "emoji": "🇮🇸",
     "currencyName": "Icelandic króna"
   },
-//  {
-//    "currencyCode": "IT",
-//    "emoji": "🇮🇹",
-//    "currencyName": "Italy"
-//  },
-//  {
-//    "currencyCode": "JE",
-//    "emoji": "🇯🇪",
-//    "currencyName": "Jersey"
-//  },
   {
     "currencyCode": "JMD",
     "emoji": "🇯🇲",
     "currencyName": "Jamaican dollar"
   },
-//  {
-//    "currencyCode": "JO",
-//    "emoji": "🇯🇴",
-//    "currencyName": "Jordan"
-//  },
   {
     "currencyCode": "JPY",
     "emoji": "🇯🇵",
@@ -589,36 +314,16 @@
     "emoji": "🇰🇭",
     "currencyName": "Cambodian riel"
   },
-//  {
-//    "currencyCode": "KI",
-//    "emoji": "🇰🇮",
-//    "currencyName": "Kiribati"
-//  },
   {
     "currencyCode": "KMF",
     "emoji": "🇰🇲",
     "currencyName": "Comoro franc"
   },
-//  {
-//    "currencyCode": "KN",
-//    "emoji": "🇰🇳",
-//    "currencyName": "Saint Kitts and Nevis"
-//  },
-//  {
-//    "currencyCode": "KP",
-//    "emoji": "🇰🇵",
-//    "currencyName": "North Korea"
-//  },
   {
     "currencyCode": "KRW",
     "emoji": "🇰🇷",
     "currencyName": "South Korean won"
   },
-//  {
-//    "currencyCode": "KW",
-//    "emoji": "🇰🇼",
-//    "currencyName": "Kuwait"
-//  },
   {
     "currencyCode": "KYD",
     "emoji": "🇰🇾",
@@ -639,16 +344,6 @@
     "emoji": "🇱🇧",
     "currencyName": "Lebanese pound"
   },
-//  {
-//    "currencyCode": "LC",
-//    "emoji": "🇱🇨",
-//    "currencyName": "Saint Lucia"
-//  },
-//  {
-//    "currencyCode": "LI",
-//    "emoji": "🇱🇮",
-//    "currencyName": "Liechtenstein"
-//  },
   {
     "currencyCode": "LKR",
     "emoji": "🇱🇰",
@@ -664,26 +359,6 @@
     "emoji": "🇱🇸",
     "currencyName": "Lesotho loti"
   },
-//  {
-//    "currencyCode": "LT",
-//    "emoji": "🇱🇹",
-//    "currencyName": "Lithuania"
-//  },
-//  {
-//    "currencyCode": "LU",
-//    "emoji": "🇱🇺",
-//    "currencyName": "Luxembourg"
-//  },
-//  {
-//    "currencyCode": "LV",
-//    "emoji": "🇱🇻",
-//    "currencyName": "Latvia"
-//  },
-//  {
-//    "currencyCode": "LY",
-//    "emoji": "🇱🇾",
-//    "currencyName": "Libya"
-//  },
   {
     "currencyCode": "MAD",
     "emoji": "🇲🇦",
@@ -699,36 +374,16 @@
     "emoji": "🇲🇩",
     "currencyName": "Moldovan leu"
   },
-//  {
-//    "currencyCode": "ME",
-//    "emoji": "🇲🇪",
-//    "currencyName": "Montenegro"
-//  },
-//  {
-//    "currencyCode": "MF",
-//    "emoji": "🇲🇫",
-//    "currencyName": "Saint Martin (French Part)"
-//  },
   {
     "currencyCode": "MGA",
     "emoji": "🇲🇬",
     "currencyName": "Malagasy ariary"
   },
-//  {
-//    "currencyCode": "MH",
-//    "emoji": "🇲🇭",
-//    "currencyName": "Marshall Islands"
-//  },
   {
     "currencyCode": "MKD",
     "emoji": "🇲🇰",
     "currencyName": "Macedonian denar"
   },
-//  {
-//    "currencyCode": "ML",
-//    "emoji": "🇲🇱",
-//    "currencyName": "Mali"
-//  },
   {
     "currencyCode": "MMK",
     "emoji": "🇲🇲",
@@ -744,31 +399,11 @@
     "emoji": "🇲🇴",
     "currencyName": "Macanese pataca"
   },
-//  {
-//    "currencyCode": "MP",
-//    "emoji": "🇲🇵",
-//    "currencyName": "Northern Mariana Islands"
-//  },
-//  {
-//    "currencyCode": "MQ",
-//    "emoji": "🇲🇶",
-//    "currencyName": "Martinique"
-//  },
   {
     "currencyCode": "MRO",
     "emoji": "🇲🇷",
     "currencyName": "Mauritanian ouguiya"
   },
-//  {
-//    "currencyCode": "MS",
-//    "emoji": "🇲🇸",
-//    "currencyName": "Montserrat"
-//  },
-//  {
-//    "currencyCode": "MT",
-//    "emoji": "🇲🇹",
-//    "currencyName": "Malta"
-//  },
   {
     "currencyCode": "MUR",
     "emoji": "🇲🇺",
@@ -804,21 +439,6 @@
     "emoji": "🇳🇦",
     "currencyName": "Namibian dollar"
   },
-//  {
-//    "currencyCode": "NC",
-//    "emoji": "🇳🇨",
-//    "currencyName": "New Caledonia"
-//  },
-//  {
-//    "currencyCode": "NE",
-//    "emoji": "🇳🇪",
-//    "currencyName": "Niger"
-//  },
-//  {
-//    "currencyCode": "NF",
-//    "emoji": "🇳🇫",
-//    "currencyName": "Norfolk Island"
-//  },
   {
     "currencyCode": "NGN",
     "emoji": "🇳🇬",
@@ -844,26 +464,11 @@
     "emoji": "🇳🇵",
     "currencyName": "Nepalese rupee"
   },
-//  {
-//    "currencyCode": "NR",
-//    "emoji": "🇳🇷",
-//    "currencyName": "Nauru"
-//  },
-//  {
-//    "currencyCode": "NU",
-//    "emoji": "🇳🇺",
-//    "currencyName": "Niue"
-//  },
   {
     "currencyCode": "NZD",
     "emoji": "🇳🇿",
     "currencyName": "New Zealand dollar"
   },
-//  {
-//    "currencyCode": "OM",
-//    "emoji": "🇴🇲",
-//    "currencyName": "Oman"
-//  },
   {
     "currencyCode": "PAB",
     "emoji": "🇵🇦",
@@ -874,11 +479,6 @@
     "emoji": "🇵🇪",
     "currencyName": "Peruvian sol"
   },
-//  {
-//    "currencyCode": "PF",
-//    "emoji": "🇵🇫",
-//    "currencyName": "French Polynesia"
-//  },
   {
     "currencyCode": "PGK",
     "emoji": "🇵🇬",
@@ -899,36 +499,6 @@
     "emoji": "🇵🇱",
     "currencyName": "Polish złoty"
   },
-//  {
-//    "currencyCode": "PM",
-//    "emoji": "🇵🇲",
-//    "currencyName": "Saint Pierre and Miquelon"
-//  },
-//  {
-//    "currencyCode": "PN",
-//    "emoji": "🇵🇳",
-//    "currencyName": "Pitcairn"
-//  },
-//  {
-//    "currencyCode": "PR",
-//    "emoji": "🇵🇷",
-//    "currencyName": "Puerto Rico"
-//  },
-//  {
-//    "currencyCode": "PS",
-//    "emoji": "🇵🇸",
-//    "currencyName": "Palestinian Territory"
-//  },
-//  {
-//    "currencyCode": "PT",
-//    "emoji": "🇵🇹",
-//    "currencyName": "Portugal"
-//  },
-//  {
-//    "currencyCode": "PW",
-//    "emoji": "🇵🇼",
-//    "currencyName": "Palau"
-//  },
   {
     "currencyCode": "PYG",
     "emoji": "🇵🇾",
@@ -939,11 +509,6 @@
     "emoji": "🇶🇦",
     "currencyName": "Qatari riyal"
   },
-//  {
-//    "currencyCode": "RE",
-//    "emoji": "🇷🇪",
-//    "currencyName": "Réunion"
-//  },
   {
     "currencyCode": "RON",
     "emoji": "🇷🇴",
@@ -979,16 +544,6 @@
     "emoji": "🇸🇨",
     "currencyName": "Seychelles rupee"
   },
-//  {
-//    "currencyCode": "SD",
-//    "emoji": "🇸🇩",
-//    "currencyName": "Sudan"
-//  },
-//  {
-//    "currencyCode": "SEK",
-//    "emoji": "🇸🇪",
-//    "currencyName": "Swedish krona"
-//  },
   {
     "currencyCode": "SGD",
     "emoji": "🇸🇬",
@@ -999,36 +554,11 @@
     "emoji": "🇸🇭",
     "currencyName": "Saint Helena pound"
   },
-//  {
-//    "currencyCode": "SI",
-//    "emoji": "🇸🇮",
-//    "currencyName": "Slovenia"
-//  },
-//  {
-//    "currencyCode": "SJ",
-//    "emoji": "🇸🇯",
-//    "currencyName": "Svalbard and Jan Mayen"
-//  },
-//  {
-//    "currencyCode": "SK",
-//    "emoji": "🇸🇰",
-//    "currencyName": "Slovakia"
-//  },
   {
     "currencyCode": "SLL",
     "emoji": "🇸🇱",
     "currencyName": "Sierra Leonean leone"
   },
-//  {
-//    "currencyCode": "SM",
-//    "emoji": "🇸🇲",
-//    "currencyName": "San Marino"
-//  },
-//  {
-//    "currencyCode": "SN",
-//    "emoji": "🇸🇳",
-//    "currencyName": "Senegal"
-//  },
   {
     "currencyCode": "SOS",
     "emoji": "🇸🇴",
@@ -1039,56 +569,16 @@
     "emoji": "🇸🇷",
     "currencyName": "Surinamese dollar"
   },
-//  {
-//    "currencyCode": "SS",
-//    "emoji": "🇸🇸",
-//    "currencyName": "South Sudan"
-//  },
   {
     "currencyCode": "STD",
     "emoji": "🇸🇹",
     "currencyName": "São Tomé and Príncipe dobra"
   },
-//  {
-//    "currencyCode": "SV",
-//    "emoji": "🇸🇻",
-//    "currencyName": "El Salvador"
-//  },
-//  {
-//    "currencyCode": "SX",
-//    "emoji": "🇸🇽",
-//    "currencyName": "Sint Maarten (Dutch Part)"
-//      },
-//  {
-//    "currencyCode": "SY",
-//    "emoji": "🇸🇾",
-//    "currencyName": "Syrian Arab Republic"
-//  },
   {
     "currencyCode": "SZL",
     "emoji": "🇸🇿",
     "currencyName": "Swazi lilangeni"
   },
-//  {
-//    "currencyCode": "TC",
-//    "emoji": "🇹🇨",
-//    "currencyName": "Turks and Caicos Islands"
-//  },
-//  {
-//    "currencyCode": "TD",
-//    "emoji": "🇹🇩",
-//    "currencyName": "Chad"
-//  },
-//  {
-//    "currencyCode": "TF",
-//    "emoji": "🇹🇫",
-//    "currencyName": "French Southern Territories"
-//      },
-//  {
-//    "currencyCode": "TG",
-//    "emoji": "🇹🇬",
-//    "currencyName": "Togo"
-//  },
   {
     "currencyCode": "THB",
     "emoji": "🇹🇭",
@@ -1099,26 +589,6 @@
     "emoji": "🇹🇯",
     "currencyName": "Tajikistani somoni"
   },
-//  {
-//    "currencyCode": "TK",
-//    "emoji": "🇹🇰",
-//    "currencyName": "Tokelau"
-//  },
-//  {
-//    "currencyCode": "TL",
-//    "emoji": "🇹🇱",
-//    "currencyName": "Timor-Leste"
-//  },
-//  {
-//    "currencyCode": "TM",
-//    "emoji": "🇹🇲",
-//    "currencyName": "Turkmenistan"
-//  },
-//  {
-//    "currencyCode": "TN",
-//    "emoji": "🇹🇳",
-//    "currencyName": "Tunisia"
-//  },
   {
     "currencyCode": "TOP",
     "emoji": "🇹🇴",
@@ -1134,11 +604,6 @@
     "emoji": "🇹🇹",
     "currencyName": "Trinidad and Tobago dollar"
   },
-//  {
-//    "currencyCode": "TV",
-//    "emoji": "🇹🇻",
-//    "currencyName": "Tuvalu"
-//  },
   {
     "currencyCode": "TWD",
     "emoji": "🇹🇼",
@@ -1159,11 +624,6 @@
     "emoji": "🇺🇬",
     "currencyName": "Ugandan shilling"
   },
-//  {
-//    "currencyCode": "UM",
-//    "emoji": "🇺🇲",
-//    "currencyName": "United States Minor Outlying Islands"
-//  },
   {
     "currencyCode": "USD",
     "emoji": "🇺🇸",
@@ -1179,31 +639,6 @@
     "emoji": "🇺🇿",
     "currencyName": "Uzbekistan som"
   },
-//  {
-//    "currencyCode": "VA",
-//    "emoji": "🇻🇦",
-//    "currencyName": "Vatican City"
-//  },
-//  {
-//    "currencyCode": "VC",
-//    "emoji": "🇻🇨",
-//    "currencyName": "Saint Vincent and The Grenadines"
-//  },
-//  {
-//    "currencyCode": "VE",
-//    "emoji": "🇻🇪",
-//    "currencyName": "Venezuela"
-//  },
-//  {
-//    "currencyCode": "VG",
-//    "emoji": "🇻🇬",
-//    "currencyName": "Virgin Islands, British"
-//  },
-//  {
-//    "currencyCode": "VI",
-//    "emoji": "🇻🇮",
-//    "currencyName": "Virgin Islands, U.S."
-//  },
   {
     "currencyCode": "VND",
     "emoji": "🇻🇳",
@@ -1214,11 +649,6 @@
     "emoji": "🇻🇺",
     "currencyName": "Vanuatu vatu"
   },
-//  {
-//    "currencyCode": "WF",
-//    "emoji": "🇼🇫",
-//    "currencyName": "Wallis and Futuna"
-//  },
   {
     "currencyCode": "WST",
     "emoji": "🇼🇸",
@@ -1244,21 +674,11 @@
     "emoji": "🇵🇫",
     "currencyName": "CFP franc"
   },
-//  {
-//    "currencyCode": "XK",
-//    "emoji": "🇽🇰",
-//    "currencyName": "Kosovo"
-//  },
   {
     "currencyCode": "YER",
     "emoji": "🇾🇪",
     "currencyName": "Yemeni rial"
   },
-//  {
-//    "currencyCode": "YT",
-//    "emoji": "🇾🇹",
-//    "currencyName": "Mayotte"
-//  },
   {
     "currencyCode": "ZAR",
     "emoji": "🇿🇦",
@@ -1268,10 +688,5 @@
     "currencyCode": "ZMW",
     "emoji": "🇿🇲",
     "currencyName": "Zambian kwacha"
-  },
-//  {
-//    "currencyCode": "ZW",
-//    "emoji": "🇿🇼",
-//    "currencyName": "Zimbabwe"
-//  }
+  }
 ]

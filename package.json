@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Returns country flag emojis given the country or currency codes",
   "main": "index.js",
+  "dependencies": {
+    "lodash.find": "4.6.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,5 +16,9 @@
     "currency-codes"
   ],
   "author": "OpenCollective Team",
-  "license": "MIT"
+  "license": "MIT",
+  "engines": {
+    "node": "14.x",
+    "npm": "6.x"
+  }
 }
