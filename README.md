@@ -1,6 +1,8 @@
 ## country-currency-emoji-flags
 
-This small package helps to obtain emojis based on country code ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)) or the currency code ([ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)).
+This small package helps to obtain emojis based on country
+code ([ISO 3166-1 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)) or the currency
+code ([ISO 4217](https://en.wikipedia.org/wiki/ISO_4217)).
 
 ### Install
 
@@ -9,7 +11,7 @@ This small package helps to obtain emojis based on country code ([ISO 3166-1 alp
 ### Usage
 
 ```js
-var emojiFlags = require('country-currency-emoji-flags');
+import {getEmojiByCountryCode, getEmojiByCurrencyCode, countryData, currencyData} from 'country-currency-emoji-flags';
 
 // Country lookup
 emojiFlags.getEmojiByCountryCode('CA');
