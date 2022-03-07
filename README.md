@@ -14,7 +14,7 @@ import {getEmojiByCountryCode, getEmojiByCurrencyCode, countryData, currencyData
 
 // Currency lookup
 emojiFlags.getEmojiByCurrencyCode('CAD');
-// => { "currencyName": "Canadian dollar", "emoji": "🇨🇦" }
+// => "🇨🇦"
 
 // entire currency code set
 emojiFlags.currencyData;

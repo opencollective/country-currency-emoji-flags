@@ -1,546 +1,138 @@
 {
-  "AED": {
-    "emoji": "🇦🇪",
-    "currencyName": "United Arab Emirates dirham"
-  },
-  "AFN": {
-    "emoji": "🇦🇫",
-    "currencyName": "Afghan afghani"
-  },
-  "ALL": {
-    "emoji": "🇦🇱",
-    "currencyName": "Albanian lek"
-  },
-  "AMD": {
-    "emoji": "🇦🇲",
-    "currencyName": "Armenian dram"
-  },
-  "ANG": {
-    "emoji": "🇳🇱",
-    "currencyName": "Netherlands Antillean guilder"
-  },
-  "AOA": {
-    "emoji": "🇦🇴",
-    "currencyName": "Angolan kwanza"
-  },
-  "ARS": {
-    "emoji": "🇦🇷",
-    "currencyName": "Argentine peso"
-  },
-  "AUD": {
-    "emoji": "🇦🇺",
-    "currencyName": "Australian dollar"
-  },
-  "AWG": {
-    "emoji": "🇦🇼",
-    "currencyName": "Aruban florin"
-  },
-  "AZN": {
-    "emoji": "🇦🇿",
-    "currencyName": "Azerbaijani manat"
-  },
-  "BAM": {
-    "emoji": "🇧🇦",
-    "currencyName": "Bosnia and Herzegovina convertible mark"
-  },
-  "BBD": {
-    "emoji": "🇧🇧",
-    "currencyName": "Barbados dollar"
-  },
-  "BDT": {
-    "emoji": "🇧🇩",
-    "currencyName": "Bangladeshi taka"
-  },
-  "BGN": {
-    "emoji": "🇧🇬",
-    "currencyName": "Bulgarian lev"
-  },
-  "BIF": {
-    "emoji": "🇧🇮",
-    "currencyName": "Burundian franc"
-  },
-  "BMD": {
-    "emoji": "🇧🇲",
-    "currencyName": "Bermudian dollar"
-  },
-  "BND": {
-    "emoji": "🇧🇳",
-    "currencyName": "Brunei dollar"
-  },
-  "BOB": {
-    "emoji": "🇧🇴",
-    "currencyName": "Boliviano"
-  },
-  "BRL": {
-    "emoji": "🇧🇷",
-    "currencyName": "Brazilian real"
-  },
-  "BSD": {
-    "emoji": "🇧🇸",
-    "currencyName": "Bahamian dollar"
-  },
-  "BWP": {
-    "emoji": "🇧🇼",
-    "currencyName": "Botswana pula"
-  },
-  "BYN": {
-    "emoji": "🇧🇾",
-    "currencyName": "Belarusian ruble"
-  },
-  "BZD": {
-    "emoji": "🇧🇿",
-    "currencyName": "Belize dollar"
-  },
-  "CAD": {
-    "emoji": "🇨🇦",
-    "currencyName": "Canadian dollar"
-  },
-  "CDF": {
-    "emoji": "🇨🇩",
-    "currencyName": "Congolese franc"
-  },
-  "CHF": {
-    "emoji": "🇨🇭",
-    "currencyName": "Swiss franc"
-  },
-  "CLP": {
-    "emoji": "🇨🇱",
-    "currencyName": "Chilean peso"
-  },
-  "CNY": {
-    "emoji": "🇨🇳",
-    "currencyName": " Chinese yuan"
-  },
-  "COP": {
-    "emoji": "🇨🇴",
-    "currencyName": "Colombian peso"
-  },
-  "CRC": {
-    "emoji": "🇨🇷",
-    "currencyName": "Costa Rican colon"
-  },
-  "CVE": {
-    "emoji": "🇨🇻",
-    "currencyName": "Cape Verdean escudo"
-  },
-  "CZK": {
-    "emoji": "🇨🇿",
-    "currencyName": "Czech Republic"
-  },
-  "DJF": {
-    "emoji": "🇩🇯",
-    "currencyName": "Djiboutian franc"
-  },
-  "DKK": {
-    "emoji": "🇩🇰",
-    "currencyName": "Danish krone"
-  },
-  "DOP": {
-    "emoji": "🇩🇴",
-    "currencyName": "Dominican peso"
-  },
-  "DZD": {
-    "emoji": "🇩🇿",
-    "currencyName": "Algerian dinar"
-  },
-  "EGP": {
-    "emoji": "🇪🇬",
-    "currencyName": "Egyptian pound"
-  },
-  "ETB": {
-    "emoji": "🇪🇹",
-    "currencyName": "Ethiopian birr"
-  },
-  "EUR": {
-    "emoji": "🇪🇺",
-    "currencyName": "Euro"
-  },
-  "FJD": {
-    "emoji": "🇫🇯",
-    "currencyName": "Fiji dollar"
-  },
-  "FKP": {
-    "emoji": "🇫🇰",
-    "currencyName": "Falkland Islands pound"
-  },
-  "GBP": {
-    "emoji": "🇬🇧",
-    "currencyName": "Pound sterling"
-  },
-  "GEL": {
-    "emoji": "🇬🇪",
-    "currencyName": "Georgian lari"
-  },
-  "GIP": {
-    "emoji": "🇬🇮",
-    "currencyName": "Gibraltar pound"
-  },
-  "GMD": {
-    "emoji": "🇬🇲",
-    "currencyName": "Gambian dalasi"
-  },
-  "GNF": {
-    "emoji": "🇬🇳",
-    "currencyName": "Guinean franc"
-  },
-  "GTQ": {
-    "emoji": "🇬🇹",
-    "currencyName": "Guatemalan quetzal"
-  },
-  "GYD": {
-    "emoji": "🇬🇾",
-    "currencyName": "Guyanese dollar"
-  },
-  "HKD": {
-    "emoji": "🇭🇰",
-    "currencyName": "Hong Kong dollar"
-  },
-  "HNL": {
-    "emoji": "🇭🇳",
-    "currencyName": "Honduran lempira"
-  },
-  "HRK": {
-    "emoji": "🇭🇷",
-    "currencyName": "Croatian kuna"
-  },
-  "HTG": {
-    "emoji": "🇭🇹",
-    "currencyName": "Haitian gourde"
-  },
-  "HUF": {
-    "emoji": "🇭🇺",
-    "currencyName": "Hungarian forint"
-  },
-  "IDR": {
-    "emoji": "🇮🇩",
-    "currencyName": " Indonesian rupiah"
-  },
-  "ILS": {
-    "emoji": "🇮🇱",
-    "currencyName": "Israeli new shekel"
-  },
-  "INR": {
-    "emoji": "🇮🇳",
-    "currencyName": "Indian rupee"
-  },
-  "ISK": {
-    "emoji": "🇮🇸",
-    "currencyName": "Icelandic króna"
-  },
-  "JMD": {
-    "emoji": "🇯🇲",
-    "currencyName": "Jamaican dollar"
-  },
-  "JPY": {
-    "emoji": "🇯🇵",
-    "currencyName": "Japanese yen"
-  },
-  "KES": {
-    "emoji": "🇰🇪",
-    "currencyName": "Kenyan shilling"
-  },
-  "KGS": {
-    "emoji": "🇰🇬",
-    "currencyName": "Kyrgyzstani som"
-  },
-  "KHR": {
-    "emoji": "🇰🇭",
-    "currencyName": "Cambodian riel"
-  },
-  "KMF": {
-    "emoji": "🇰🇲",
-    "currencyName": "Comoro franc"
-  },
-  "KRW": {
-    "emoji": "🇰🇷",
-    "currencyName": "South Korean won"
-  },
-  "KYD": {
-    "emoji": "🇰🇾",
-    "currencyName": "Cayman Islands dollar"
-  },
-  "KZT": {
-    "emoji": "🇰🇿",
-    "currencyName": "Kazakhstani tenge"
-  },
-  "LAK": {
-    "emoji": "🇱🇦",
-    "currencyName": "Lao kip"
-  },
-  "LBP": {
-    "emoji": "🇱🇧",
-    "currencyName": "Lebanese pound"
-  },
-  "LKR": {
-    "emoji": "🇱🇰",
-    "currencyName": "Sri Lankan rupee"
-  },
-  "LRD": {
-    "emoji": "🇱🇷",
-    "currencyName": "Liberian dollar"
-  },
-  "LSL": {
-    "emoji": "🇱🇸",
-    "currencyName": "Lesotho loti"
-  },
-  "MAD": {
-    "emoji": "🇲🇦",
-    "currencyName": "Moroccan dirham"
-  },
-  "MDL": {
-    "emoji": "🇲🇩",
-    "currencyName": "Moldovan leu"
-  },
-  "MGA": {
-    "emoji": "🇲🇬",
-    "currencyName": "Malagasy ariary"
-  },
-  "MKD": {
-    "emoji": "🇲🇰",
-    "currencyName": "Macedonian denar"
-  },
-  "MMK": {
-    "emoji": "🇲🇲",
-    "currencyName": "Myanmar kyat"
-  },
-  "MNT": {
-    "emoji": "🇲🇳",
-    "currencyName": "Mongolian tögrög"
-  },
-  "MOP": {
-    "emoji": "🇲🇴",
-    "currencyName": "Macanese pataca"
-  },
-  "MRO": {
-    "emoji": "🇲🇷",
-    "currencyName": "Mauritanian ouguiya"
-  },
-  "MUR": {
-    "emoji": "🇲🇺",
-    "currencyName": "Mauritian rupee"
-  },
-  "MVR": {
-    "emoji": "🇲🇻",
-    "currencyName": "Maldivian rufiyaa"
-  },
-  "MWK": {
-    "emoji": "🇲🇼",
-    "currencyName": "Malawian kwacha"
-  },
-  "MXN": {
-    "emoji": "🇲🇽",
-    "currencyName": "Mexican peso"
-  },
-  "MYR": {
-    "emoji": "🇲🇾",
-    "currencyName": "Malaysian ringgit"
-  },
-  "MZN": {
-    "emoji": "🇲🇿",
-    "currencyName": "Mozambican metical"
-  },
-  "NAD": {
-    "emoji": "🇳🇦",
-    "currencyName": "Namibian dollar"
-  },
-  "NGN": {
-    "emoji": "🇳🇬",
-    "currencyName": "Nigerian naira"
-  },
-  "NIO": {
-    "emoji": "🇳🇮",
-    "currencyName": "Nicaraguan córdoba"
-  },
-  "NOK": {
-    "emoji": "🇳🇴",
-    "currencyName": "Norwegian krone"
-  },
-  "NPR": {
-    "emoji": "🇳🇵",
-    "currencyName": "Nepalese rupee"
-  },
-  "NZD": {
-    "emoji": "🇳🇿",
-    "currencyName": "New Zealand dollar"
-  },
-  "PAB": {
-    "emoji": "🇵🇦",
-    "currencyName": "Panamanian balboa"
-  },
-  "PEN": {
-    "emoji": "🇵🇪",
-    "currencyName": "Peruvian sol"
-  },
-  "PGK": {
-    "emoji": "🇵🇬",
-    "currencyName": "Papua New Guinean kina"
-  },
-  "PHP": {
-    "emoji": "🇵🇭",
-    "currencyName": "Philippine peso"
-  },
-  "PKR": {
-    "emoji": "🇵🇰",
-    "currencyName": "Pakistani rupee"
-  },
-  "PLN": {
-    "emoji": "🇵🇱",
-    "currencyName": "Polish złoty"
-  },
-  "PYG": {
-    "emoji": "🇵🇾",
-    "currencyName": "Paraguayan guaraní"
-  },
-  "QAR": {
-    "emoji": "🇶🇦",
-    "currencyName": "Qatari riyal"
-  },
-  "RON": {
-    "emoji": "🇷🇴",
-    "currencyName": "Romanian leu"
-  },
-  "RSD": {
-    "emoji": "🇷🇸",
-    "currencyName": "Serbian dinar"
-  },
-  "RUB": {
-    "emoji": "🇷🇺",
-    "currencyName": "Russian ruble"
-  },
-  "RWF": {
-    "emoji": "🇷🇼",
-    "currencyName": "Rwandan franc"
-  },
-  "SAR": {
-    "emoji": "🇸🇦",
-    "currencyName": "Saudi riyal"
-  },
-  "SBD": {
-    "emoji": "🇸🇧",
-    "currencyName": "Solomon Islands dollar"
-  },
-  "SCR": {
-    "emoji": "🇸🇨",
-    "currencyName": "Seychelles rupee"
-  },
-  "SEK": {
-    "emoji": "🇸🇪",
-    "currencyName": "Swedish krona"
-  },
-  "SGD": {
-    "emoji": "🇸🇬",
-    "currencyName": "Singapore dollar"
-  },
-  "SHP": {
-    "emoji": "🇸🇭",
-    "currencyName": "Saint Helena pound"
-  },
-  "SLL": {
-    "emoji": "🇸🇱",
-    "currencyName": "Sierra Leonean leone"
-  },
-  "SOS": {
-    "emoji": "🇸🇴",
-    "currencyName": "Somali shilling"
-  },
-  "SRD": {
-    "emoji": "🇸🇷",
-    "currencyName": "Surinamese dollar"
-  },
-  "STD": {
-    "emoji": "🇸🇹",
-    "currencyName": "São Tomé and Príncipe dobra"
-  },
-  "SZL": {
-    "emoji": "🇸🇿",
-    "currencyName": "Swazi lilangeni"
-  },
-  "THB": {
-    "emoji": "🇹🇭",
-    "currencyName": "Thai baht"
-  },
-  "TJS": {
-    "emoji": "🇹🇯",
-    "currencyName": "Tajikistani somoni"
-  },
-  "TOP": {
-    "emoji": "🇹🇴",
-    "currencyName": "Tongan paʻanga"
-  },
-  "TRY": {
-    "emoji": "🇹🇷",
-    "currencyName": "Turkish lira"
-  },
-  "TTD": {
-    "emoji": "🇹🇹",
-    "currencyName": "Trinidad and Tobago dollar"
-  },
-  "TWD": {
-    "emoji": "🇹🇼",
-    "currencyName": "New Taiwan dollar"
-  },
-  "TZS": {
-    "emoji": "🇹🇿",
-    "currencyName": "Tanzanian shilling"
-  },
-  "UAH": {
-    "emoji": "🇺🇦",
-    "currencyName": "Ukrainian hryvnia"
-  },
-  "UGX": {
-    "emoji": "🇺🇬",
-    "currencyName": "Ugandan shilling"
-  },
-  "USD": {
-    "emoji": "🇺🇸",
-    "currencyName": "United States dollar"
-  },
-  "UYU": {
-    "emoji": "🇺🇾",
-    "currencyName": "Uruguayan peso"
-  },
-  "UZS": {
-    "emoji": "🇺🇿",
-    "currencyName": "Uzbekistan som"
-  },
-  "VND": {
-    "emoji": "🇻🇳",
-    "currencyName": "Vietnamese đồng"
-  },
-  "VUV": {
-    "emoji": "🇻🇺",
-    "currencyName": "Vanuatu vatu"
-  },
-  "WST": {
-    "emoji": "🇼🇸",
-    "currencyName": "Samoan tala"
-  },
-  "XAF": {
-    "emoji": "🇨🇲",
-    "currencyName": "CFA franc BEAC"
-  },
-  "XCD": {
-    "emoji": "🇦🇮",
-    "currencyName": "East Caribbean dollar"
-  },
-  "XOF": {
-    "emoji": "🇧🇯",
-    "currencyName": "CFA franc BCEAO"
-  },
-  "XPF": {
-    "emoji": "🇵🇫",
-    "currencyName": "CFP franc"
-  },
-  "YER": {
-    "emoji": "🇾🇪",
-    "currencyName": "Yemeni rial"
-  },
-  "ZAR": {
-    "emoji": "🇿🇦",
-    "currencyName": "South African rand"
-  },
-  "ZMW": {
-    "emoji": "🇿🇲",
-    "currencyName": "Zambian kwacha"
-  }
+  "AED": "🇦🇪",
+  "AFN": "🇦🇫",
+  "ALL": "🇦🇱",
+  "AMD": "🇦🇲",
+  "ANG": "🇳🇱",
+  "AOA": "🇦🇴",
+  "ARS": "🇦🇷",
+  "AUD": "🇦🇺",
+  "AWG": "🇦🇼",
+  "AZN": "🇦🇿",
+  "BAM": "🇧🇦",
+  "BBD": "🇧🇧",
+  "BDT": "🇧🇩",
+  "BGN": "🇧🇬",
+  "BIF": "🇧🇮",
+  "BMD": "🇧🇲",
+  "BND": "🇧🇳",
+  "BOB": "🇧🇴",
+  "BRL": "🇧🇷",
+  "BSD": "🇧🇸",
+  "BWP": "🇧🇼",
+  "BYN": "🇧🇾",
+  "BZD": "🇧🇿",
+  "CAD": "🇨🇦",
+  "CDF": "🇨🇩",
+  "CHF": "🇨🇭",
+  "CLP": "🇨🇱",
+  "CNY": "🇨🇳",
+  "COP": "🇨🇴",
+  "CRC": "🇨🇷",
+  "CVE": "🇨🇻",
+  "CZK": "🇨🇿",
+  "DJF": "🇩🇯",
+  "DKK": "🇩🇰",
+  "DOP": "🇩🇴",
+  "DZD": "🇩🇿",
+  "EGP": "🇪🇬",
+  "ETB": "🇪🇹",
+  "EUR": "🇪🇺",
+  "FJD": "🇫🇯",
+  "FKP": "🇫🇰",
+  "GBP": "🇬🇧",
+  "GEL": "🇬🇪",
+  "GIP": "🇬🇮",
+  "GMD": "🇬🇲",
+  "GNF": "🇬🇳",
+  "GTQ": "🇬🇹",
+  "GYD": "🇬🇾",
+  "HKD": "🇭🇰",
+  "HNL": "🇭🇳",
+  "HRK": "🇭🇷",
+  "HTG": "🇭🇹",
+  "HUF": "🇭🇺",
+  "IDR": "🇮🇩",
+  "ILS": "🇮🇱",
+  "INR": "🇮🇳",
+  "ISK": "🇮🇸",
+  "JMD": "🇯🇲",
+  "JPY": "🇯🇵",
+  "KES": "🇰🇪",
+  "KGS": "🇰🇬",
+  "KHR": "🇰🇭",
+  "KMF": "🇰🇲",
+  "KRW": "🇰🇷",
+  "KYD": "🇰🇾",
+  "KZT": "🇰🇿",
+  "LAK": "🇱🇦",
+  "LBP": "🇱🇧",
+  "LKR": "🇱🇰",
+  "LRD": "🇱🇷",
+  "LSL": "🇱🇸",
+  "MAD": "🇲🇦",
+  "MDL": "🇲🇩",
+  "MGA": "🇲🇬",
+  "MKD": "🇲🇰",
+  "MMK": "🇲🇲",
+  "MNT": "🇲🇳",
+  "MOP": "🇲🇴",
+  "MRO": "🇲🇷",
+  "MUR": "🇲🇺",
+  "MVR": "🇲🇻",
+  "MWK": "🇲🇼",
+  "MXN": "🇲🇽",
+  "MYR": "🇲🇾",
+  "MZN": "🇲🇿",
+  "NAD": "🇳🇦",
+  "NGN": "🇳🇬",
+  "NIO": "🇳🇮",
+  "NOK": "🇳🇴",
+  "NPR": "🇳🇵",
+  "NZD": "🇳🇿",
+  "PAB": "🇵🇦",
+  "PEN": "🇵🇪",
+  "PGK": "🇵🇬",
+  "PHP": "🇵🇭",
+  "PKR": "🇵🇰",
+  "PLN": "🇵🇱",
+  "PYG": "🇵🇾",
+  "QAR": "🇶🇦",
+  "RON": "🇷🇴",
+  "RSD": "🇷🇸",
+  "RUB": "🇷🇺",
+  "RWF": "🇷🇼",
+  "SAR": "🇸🇦",
+  "SBD": "🇸🇧",
+  "SCR": "🇸🇨",
+  "SEK": "🇸🇪",
+  "SGD": "🇸🇬",
+  "SHP": "🇸🇭",
+  "SLL": "🇸🇱",
+  "SOS": "🇸🇴",
+  "SRD": "🇸🇷",
+  "STD": "🇸🇹",
+  "SZL": "🇸🇿",
+  "THB": "🇹🇭",
+  "TJS": "🇹🇯",
+  "TOP": "🇹🇴",
+  "TRY": "🇹🇷",
+  "TTD": "🇹🇹",
+  "TWD": "🇹🇼",
+  "TZS": "🇹🇿",
+  "UAH": "🇺🇦",
+  "UGX": "🇺🇬",
+  "USD": "🇺🇸",
+  "UYU": "🇺🇾",
+  "UZS": "🇺🇿",
+  "VND": "🇻🇳",
+  "VUV": "🇻🇺",
+  "WST": "🇼🇸",
+  "XAF": "🇨🇲",
+  "XCD": "🇦🇮",
+  "XOF": "🇧🇯",
+  "XPF": "🇵🇫",
+  "YER": "🇾🇪",
+  "ZAR": "🇿🇦",
+  "ZMW": "🇿🇲"
 }
