@@ -16,6 +16,13 @@ import {getEmojiByCountryCode, getEmojiByCurrencyCode, countryData, currencyData
 emojiFlags.getEmojiByCurrencyCode('CAD');
 // => "🇨🇦"
 
+// Country lookup
+emojiFlags.getEmojiByCountryCode('CA');
+// => "🇨🇦"
+
 // entire currency code set
 emojiFlags.currencyData;
+
+// entire country code set
+emojiFlags.countryData;
 ```
