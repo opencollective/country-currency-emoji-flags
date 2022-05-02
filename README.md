@@ -25,4 +25,8 @@ emojiFlags.currencyData;
 
 // entire country code set
 emojiFlags.countryData;
+
+// get country codes by country name
+emojiFlags.getCountryCodeByCountryName('Canada'); 
+// => "CA"
 ```

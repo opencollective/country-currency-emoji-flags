@@ -2,6 +2,7 @@
 
 const currencyData = require('./currency-data.json');
 const countryData = require('./country-data.json');
+const countryCodesByName = require('./country-codes-by-name.json');
 
 const methods = {
   getEmojiByCountryCode: countryCode => {
@@ -18,6 +19,14 @@ const methods = {
     }
 
     return currencyData[currencyCode.toUpperCase()];
+  },
+
+  getCountryCodeByCountryName: countryName => {
+    if (!countryName) {
+      return null;
+    }
+
+    return countryCodesByName[countryName];
   },
 
   get currencyData() {
