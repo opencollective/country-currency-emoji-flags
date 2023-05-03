@@ -1,6 +1,6 @@
 {
   "name": "country-currency-emoji-flags",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "Returns country flag emojis given currency codes",
   "main": "index.js",
   "homepage": "https://github.com/opencollective/country-currency-emoji-flags",
