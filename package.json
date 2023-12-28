@@ -9,7 +9,10 @@
     "url": "git+https://github.com/opencollective/country-currency-emoji-flags.git"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "prettier": "prettier \"**/*.@(js|ts|json|md)\"",
+    "prettier:check": "npm run prettier -- --check",
+    "prettier:write": "npm run prettier -- --write"
   },
   "keywords": [
     "currency-emojis",
@@ -18,5 +21,9 @@
     "currency-codes"
   ],
   "author": "Open Collective Team",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prettier": "3.1.1"
+  }
 }
