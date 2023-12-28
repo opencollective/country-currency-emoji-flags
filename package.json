@@ -25,5 +25,12 @@
   "devDependencies": {
     "jest": "^29.7.0",
     "prettier": "3.1.1"
-  }
+  },
+  "files": [
+    "index.js",
+    "country-data.json",
+    "currency-data.json",
+    "LICENSE",
+    "README.md"
+  ]
 }
