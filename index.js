@@ -1,10 +1,10 @@
-'use strict';
+"use strict";
 
-const currencyData = require('./currency-data.json');
-const countryData = require('./country-data.json');
+const currencyData = require("./currency-data.json");
+const countryData = require("./country-data.json");
 
 const methods = {
-  getEmojiByCountryCode: countryCode => {
+  getEmojiByCountryCode: (countryCode) => {
     if (!countryCode) {
       return null;
     }
@@ -12,7 +12,7 @@ const methods = {
     return countryData[countryCode.toUpperCase()];
   },
 
-  getEmojiByCurrencyCode: currencyCode => {
+  getEmojiByCurrencyCode: (currencyCode) => {
     if (!currencyCode) {
       return null;
     }
